@@ -1,0 +1,4 @@
+OpenIntent open the blinds
+OpenIntent open
+CloseIntent close the blinds
+CloseIntent close
