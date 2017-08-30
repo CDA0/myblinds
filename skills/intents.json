@@ -1,0 +1,13 @@
+{
+    "intents": [
+      {
+        "intent": "OpenIntent"
+      },
+      {
+        "intent": "CloseIntent"
+      },
+      {
+        "intent": "AMAZON.StopIntent"
+      }
+    ]
+  }
